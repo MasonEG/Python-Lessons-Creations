@@ -1,0 +1,7 @@
+print ("hello")
+print("rattlesnake")
+print("rattlesnake")
+print('rattlesnake')
+print('rattles me')
+print("yahyahyah")
+print('lordelordelorde')
